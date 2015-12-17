@@ -1,14 +1,7 @@
 
 
-# Hacking-EDU
-
-
-
-## Usage
-
-
-
-## Developing
+# About
+A Web app for students of the college to notify other students about the events in the college and give a small description about the free stuff (SWAG) available for students during the event. 
 
 
 
